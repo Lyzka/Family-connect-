@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HoloComm 3D</string>
+    <string name="contacts_title">CONTACTS</string>
+    <string name="contacts_subtitle">KONTAKTY</string>
+    <string name="user_01">USER_01</string>
+    <string name="user_02">USER_02</string>
+    <string name="user_03">USER_03</string>
+    <string name="status_connecting">CONNECTING...</string>
+    <string name="status_connected">LINK ESTABLISHED</string>
+    <string name="status_video">HOLO-VIDEO ACTIVE</string>
+    <string name="status_secure">QUANTUM ENCRYPTED</string>
+    <string name="status_disconnected">LINK TERMINATED</string>
+    <string name="link_active">LINK ACTIVE</string>
+    <string name="signal_detected">SIGNAL DETECTED</string>
+    <string name="action_call">CALL</string>
+    <string name="action_video">VIDEO</string>
+    <string name="action_secure">SECURE</string>
+    <string name="action_disconnect">DISCONNECT</string>
+    <string name="mode_native_3d">3D HUD</string>
+    <string name="mode_ai_chat">AI COMMS</string>
+    <string name="mode_webgl">3D MESH</string>
+    <string name="mode_specs">MCP / HLSL</string>
+    <string name="open_ai_comms">AI COMMS // GEMINI</string>
+    <string name="cd_call_button">Initiate Holographic Voice Call</string>
+    <string name="cd_video_button">Toggle 3D Holographic Video Stream</string>
+    <string name="cd_secure_button">Toggle Quantum Encryption Lock</string>
+    <string name="cd_disconnect_button">Disconnect Holographic Link</string>
+    <string name="cd_rotate_screen">Toggle Screen Orientation</string>
+</resources>

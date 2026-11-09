@@ -1,0 +1,6 @@
+{
+  "name": "HoloComm 3D",
+  "description": "Interactive 3D Sci-Fi Holographic Communicator HUD with real-time particle globe, plexus polyhedrons, 3D wireframe contact busts, live frequency telemetry, and Cyber-Trek Liquid Glass controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
